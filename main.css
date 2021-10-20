@@ -1,0 +1,19 @@
+html{
+    margin: 150px;
+    padding: 150px;
+    background-color: rgb(204, 202, 202);
+}
+#parent{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(68, 68, 68);
+    margin: 5px;
+}
+.darkMode{
+    background-color: grey;
+}
